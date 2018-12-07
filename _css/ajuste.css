@@ -1,0 +1,296 @@
+
+
+
+.teste{
+	
+	background-color: #A9A9A9;
+	height: 60px;
+	text-align: center;
+	font-size: 12px;
+}
+
+
+.teste .texto{
+	margin-top: 5px;
+	color: #696969;
+}
+
+.fundo{
+	background-color: red;
+}
+
+.teste2{
+	height: 250px;
+	background-color: #A9A9A9;
+	margin-top: 30px;
+}
+
+
+.red{
+	background-color: red;
+	height: 400px;
+}
+
+.black{
+	background-color: #A9A9A9;
+	height: 100%;
+}
+
+.campo{
+	margin-top: 20px;
+}
+
+.btn{
+	margin-top: 30px;
+
+}
+
+.menu{
+	background-color: #696969;
+	height: 590px;
+	margin-top: 55px;
+}
+
+
+.menu .nm :hover{
+	background-color: #4169E1;
+	color: #F0FFFF;
+
+}
+
+
+.tela{
+	background-color: #DCDCDC;
+	height: 100%;
+
+
+}
+
+.nav{
+	margin-top: 40px;
+
+}
+
+.nav .nav-link{
+	background-color: #2F4F4F;
+	margin: 5px;
+	color: #ADD8E6;
+}
+
+.titulo{
+	height: 40px;
+	margin-top: 60px;
+	color: 	#F0FFFF	;
+	border-radius: 5px;
+}
+
+.t1{
+	
+	margin-top: 20px;	
+}
+
+ 
+
+.t1 label{
+	margin-left: 10px;
+	background-color: #696969;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.t1 label h3{
+	background-color: #424242;
+	border-radius: 5px;
+
+}
+
+.t1 label a{
+	text-decoration: none;
+	color:#F0FFFF; 
+}
+
+.linha{
+	background-color: #151515;
+	height: 10px;
+	margin-top: 20px;
+}
+
+.t1 form button{
+	margin: 10px;
+	margin-top: 30px;
+
+}
+
+.roda{
+	background-color: #151515;
+	height: 30px;
+}
+
+.t2{
+	margin-top: 20px;
+	
+}
+
+.t2 .reg{
+	width: 80%;
+	background-color:#A9A9A9;
+	border-radius: 10px;
+	margin-left: 50px;
+
+}
+
+
+.t2 a :hover{
+	background-color: #000000;
+	color: white;
+}
+
+
+.t2 .reg label{
+
+	margin: 10px;
+}
+
+.t2 a{
+	color: black;
+}
+
+
+.pesq{
+	margin-top: 20px;
+
+}
+
+
+
+.t33 label{
+	margin-top: 40px;
+	margin-left: 30px;
+}
+
+.t3 h2{
+	margin-top: 20px;
+}
+
+.t333 label{
+	margin-top: 120px;
+	float: right;
+}
+
+.t4 label{
+	font-size: 13px;
+}
+
+.pagi{
+	margin-top: 20px;
+}
+
+
+
+.conf{
+	 background-color: #808080;
+
+}
+
+.conf a{
+	color: #D3D3D3;
+}
+
+.c1{
+	background-color:  black
+}
+
+.us{
+	color: #DCDCDC;
+	margin-left: 10px;
+
+
+}
+
+.us1{
+	color: #DCDCDC;
+	margin-left: 20px;
+
+
+	
+}
+
+.us1 a{
+	color: #DCDCDC;
+	text-decoration: none;
+}
+
+#bbl{
+	background-color:rgba(0,0,0,0.6);
+
+
+}
+
+
+	
+
+}
+
+.col-sm-4 h1{
+	color: #ffffff;
+}
+
+
+
+.cc1{
+	margin-bottom: 10px;
+}
+
+.us span{
+	padding: 10px;
+}
+
+.t5{
+	
+	margin-top: 20px;	
+}
+
+ 
+.t5 form button{
+	margin: 10px;
+	margin-top: 30px;
+}
+
+.card{
+	margin-top: 20px;
+
+}
+
+.cardpro a label{
+	text-decoration: none;
+	
+}
+
+.ops{
+	margin-top: 20px;
+	
+}
+
+.ops1 li{
+	background-color: #F0FFF0;
+	margin-top: 5px;
+}
+
+.ops1 a{
+	color: black;
+	text-decoration: none;
+}
+
+.ops1 a :hover{
+	background-color: #ADD8E6;
+}
+
+
+#sele{
+	background-color: #2F4F4F;
+	border-radius: 10px;
+}
+
+#sele h3{
+	color: 	#F0FFF0;
+}
